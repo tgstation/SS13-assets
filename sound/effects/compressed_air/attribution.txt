@@ -1,0 +1,6 @@
+{ added in https://github.com/tgstation/tgstation/pull/83840
+compressed_air1.ogg is taken from Freesound and converted to ogg:
+https://freesound.org/people/Geoff-Bremner-Audio/sounds/682952/
+compressed_air2.ogg is taken from Freesound and converted to ogg:
+https://freesound.org/people/Geoff-Bremner-Audio/sounds/682816/
+} 
