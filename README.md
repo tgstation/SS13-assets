@@ -1,5 +1,5 @@
-# sprites
-Unused assets intended for Space Station 13.
+# SS13-assets
+Unused assets, such as sprites or sounds, intended for Space Station 13.
 
 ## LICENSE
 All assets are under a [Creative Commons 3.0 BY-SA license](https://creativecommons.org/licenses/by-sa/3.0/) unless otherwise indicated.
