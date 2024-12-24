@@ -1,0 +1,6 @@
+{
+AmazingHonks.ogg
+Baby_its_honk_outside
+BlueDanubRetro.gg
+JingleHorns.ogg
+} made by Cuboos, source: https://github.com/Cuboos/SS13-Sound-Library

@@ -1,0 +1,4 @@
+{
+biting_1.ogg 
+biting_2.ogg
+} - made by cuboos, source: https://github.com/Cuboos/SS13-Sound-Library
